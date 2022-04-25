@@ -8,6 +8,7 @@ body {
   padding: 0;
   margin: 0;
   font-family: "Open Sans", sans-serif;
+  background-color: #568a84;
 }
 
 main {
@@ -147,6 +148,7 @@ form {
 
 .card {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  background-color: #05767a;
 }
 
 .card__header,
